@@ -1,6 +1,6 @@
 ## Dataset
 
-The dataset has been taken from Conversation AI.
+The dataset has been taken from https://conversationai.github.io/.
 
 It consists of three files:
 
